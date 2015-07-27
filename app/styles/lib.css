@@ -43,6 +43,9 @@
 .space-between{
   justify-content:space-between;
   align-items:center;
+  flex-flow:column;
+  height:100vh;
+  
 }
 .panel {
   margin-bottom: 5px;

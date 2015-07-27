@@ -5,13 +5,14 @@ body{
   background-color: #fd1010;
 }
 article.body{
-  margin-bottom: 70px;
-  padding: 5px;
+  
+  
 }
 
 footer.navbar-default{
   display: table-row;
    height: 70px;
+   background-color: #ccc;
 }
 
 .item{
